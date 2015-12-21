@@ -9,7 +9,9 @@ This is the introduction to my project.
 
 Requirements:
 
-My project depends on package xyz package
+1. Be cool
+2. Have a laptop
+3. Have nice kicks
 
 Contents:
 
@@ -19,6 +21,7 @@ Contents:
    tutorial
    project
    code
+   about me
 
 
 
