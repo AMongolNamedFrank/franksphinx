@@ -21,7 +21,6 @@ Contents:
    tutorial
    project
    code
-   about me
 
 
 
