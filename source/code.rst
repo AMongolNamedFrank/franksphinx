@@ -1,5 +1,5 @@
 Auto Generated Documentation
 =============================
 
-.. automodule:: datasets 
-   :members:
+.. automodule:: nidata.functional.haxby_etal_2001.datasets
+    :members:
